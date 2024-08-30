@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+/* 폰트 선언 */
+body{
+    font-family: "Noto Sans KR", sans-serif;
+}
+
+:root {
+    --black: #1B1B1B;
+    --white: #FFFFFF;
+    --blue: #2100EB;
+    --main-color: #3A42FF;
+    --darkgray: #616161;
+    --gray: #919191;
+    --lightgray: #CCCCCC;
+    --ex-lightgray: #EEEEEE;
+    --yellow: #FFC328;
+    --orange: #FFA843;
+    --purple: #985CD4;
+    --green: #65C378;
+    --skyblue: #8FBCFF;
+    --red: #FF4A4A;
+    --main-title: 32px;
+    --sub-title: 18px;
+    --large-title: 30px;
+    --lounge-title: 28px;
+    --header-title: 22px;
+    --content-title: 24px;
+    --content-sub-title: 20px;
+    --large-text: 36px;
+    --main-text: 18px;
+    --sub-text: 16px;
+    --small-text: 14px;
+    --ex-small-text: 12px;
+    --mo-ex-small-text: 10px;
+    --bg-black: #111111;
+    --bg-lightgray: #F4F5F7;
+    --bg-gray: #E5E6E8;
+    --transition: 0.3s;
+}
+
+
+
+.container{
+    width: 1360px;
+    margin: 0 auto;
+    position: relative;
+}
+
+/* header */
+
+/* visualWrap */
+
+/* sec1st */
+
+/* sec2st */
+
+/* sec3st */
+
+/* footer */
