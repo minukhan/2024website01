@@ -1,1 +1,1 @@
-(Site)[https://minukhan.github.io/2024website01/index.html]
+[site]{https://minukhan.github.io/2024website01/index.html}
